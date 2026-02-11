@@ -7,6 +7,7 @@ namespace GroceryListApp
     /// Links to the ingredient name rather than storing the full ingredient object
     /// to avoid data duplication and maintain consistency.
     /// </summary>
+
     public class RecipeIngredient
     {
         private string _ingredientName;
