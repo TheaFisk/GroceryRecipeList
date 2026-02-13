@@ -4,6 +4,7 @@ This project is a C# console application that generates grocery lists based on r
 My goal with this software was to create a practical tool that solves a real-world problem I face regularly: planning meals and creating efficient grocery lists. I wanted to demonstrate my understanding of object-oriented programming principles, data structures, and file I/O while building something genuinely useful for my daily life. This project showcases my ability to design class hierarchies, implement encapsulation, manage collections effectively, and create a user-friendly interface.
 
 [Software Demo Video](https://youtu.be/gYDb71bHtKY)
+Note to instructor: My video is a little long. If it's better to edit it down next time, I can do that. Thank you!
 
 # Development Environment
 This project was developed using the following tools and technologies:
