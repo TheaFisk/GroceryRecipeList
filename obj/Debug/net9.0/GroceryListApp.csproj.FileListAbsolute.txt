@@ -1,0 +1,15 @@
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\GroceryListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\GroceryListApp.AssemblyInfoInputs.cache
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\GroceryListApp.AssemblyInfo.cs
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\GroceryListApp.csproj.CoreCompileInputs.cache
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\GroceryListApp.sourcelink.json
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\bin\Debug\net9.0\GroceryListApp.exe
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\bin\Debug\net9.0\GroceryListApp.deps.json
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\bin\Debug\net9.0\GroceryListApp.runtimeconfig.json
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\bin\Debug\net9.0\GroceryListApp.dll
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\bin\Debug\net9.0\GroceryListApp.pdb
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\GroceryListApp.dll
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\refint\GroceryListApp.dll
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\GroceryListApp.pdb
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\GroceryListApp.genruntimeconfig.cache
+C:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net9.0\ref\GroceryListApp.dll
