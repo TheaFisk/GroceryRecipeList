@@ -1,0 +1,5 @@
+c:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net6.0\GroceryListApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net6.0\GroceryListApp.AssemblyInfoInputs.cache
+c:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net6.0\GroceryListApp.AssemblyInfo.cs
+c:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net6.0\GroceryListApp.csproj.CoreCompileInputs.cache
+c:\Users\Thea Fisk\Documents\Thea Things\GroceryRecipeList\obj\Debug\net6.0\GroceryListApp.sourcelink.json
