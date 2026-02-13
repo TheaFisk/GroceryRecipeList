@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Beans",
+    "Servings": 3,
+    "Ingredients": [
+      {
+        "IngredientName": "Beans",
+        "Quantity": 3
+      }
+    ]
+  }
+]
