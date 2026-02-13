@@ -8,7 +8,7 @@ My goal with this software was to create a practical tool that solves a real-wor
 # Development Environment
 This project was developed using the following tools and technologies:
 
-* .NET 6.0 SDK
+* .NET 9.0 SDK
 * C# Programming Language
 * Visual Studio Code IDE
 * Git and GitHub for version control
@@ -27,7 +27,7 @@ The following resources were helpful while developing this project:
 # AI Disclosure
 I used Claude AI as a development partner throughout this project. I primarily used it to help structure the initial class architecture, review C# best practices for encapsulation and property validation, explore different collection types (Dictionary vs List) for optimal performance, and understand JSON serialization patterns.
 
-In one specific part of the project, I asked for direct assistance with implementing the grocery list consolidation logic that combines duplicate ingredients from multiple recipes. The AI suggested using a Dictionary with case-insensitive string comparison to aggregate quantities. I did not copy the implementation verbatim. I adapted the approach to fit my existing GroceryManager class structure, added additional validation for missing ingredients, integrated cost calculation logic, and added the ability to export the consolidated list to a formatted text file.
+In one specific part of the project, I asked for direct assistance with implementing the grocery list consolidation logic that combines repeated ingredients from multiple recipes. The AI suggested using a Dictionary with case-insensitive string comparison to aggregate quantities. I did not copy the implementation verbatim. I adapted the approach to fit my existing GroceryManager class structure, added additional validation for missing ingredients, integrated cost calculation logic, and added the ability to export the consolidated list to a formatted text file.
 
 Through this process, I learned how to use StringComparer.OrdinalIgnoreCase for case-insensitive dictionary keys, implement the TryGetValue pattern for safe dictionary access, and use LINQ's OrderBy method to sort output. I felt confident using the suggestion because I fully understood the algorithm, could trace through the consolidation logic with example data, and successfully extended it with additional features like cost estimation and file export.
 
